@@ -1,6 +1,7 @@
 # Project S.A.S
 Genre: Action / Survival / Shooter
 Mode: Single Player
+
 🧟‍♂️ 1. Game Overview
 
 Project S.A.S is an action-packed survival shooter where players must navigate a hostile, zombie-infested terrain. With limited visibility and scarce resources, players must rely on strategy, awareness, and quick reactions to survive.
